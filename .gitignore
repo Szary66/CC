@@ -1,8 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Startet content
 Content/StarterContent/*
+=======
+>>>>>>> cd504ffa0fdefc810a525b329123614d1b21f59c
 =======
 >>>>>>> cd504ffa0fdefc810a525b329123614d1b21f59c
 
@@ -43,7 +46,10 @@ Content/StarterContent/*
 *.opensdf
 *.sdf
 *.VC.opendb
+<<<<<<< HEAD
 *.VC.db
+=======
+>>>>>>> cd504ffa0fdefc810a525b329123614d1b21f59c
 
 # Precompiled Assets
 SourceArt/**/*.png
